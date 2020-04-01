@@ -1,4 +1,4 @@
-# Linear Regression using Sklearn on Boston Hosuing Dataset
+# Linear Regression using Sklearn on Boston Housing Dataset
 Linear Regression with Boston Housing Dataset
 
 ### Goal
