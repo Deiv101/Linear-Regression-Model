@@ -4,7 +4,7 @@ Linear Regression with Boston Housing Dataset
 ### Goal
 > To predict housing costs/prices using the given features. 
 
-Perhaps it is important to know what the columns in this dataset mean in full as they have benn shortened to make appear neat in csv file. 
+Perhaps it is important to know what the columns in this dataset mean in full as they have benn shortened to make appear neat in a dataframe. 
 
 - **CRIM** - per capita crime rate by town
 - **ZN** - proportion of residential land zoned for lots over 25,000 sq.ft.
@@ -19,7 +19,7 @@ Perhaps it is important to know what the columns in this dataset mean in full as
 - **PTRATIO** - pupil-teacher ratio by town
 - **B** - 1000(Bk - 0.63)^2 where Bk is the proportion of blacks by town
 - **LSTAT** - % lower status of the population
-- **MEDV** - Median value of owner-occupied homes in $1000's
+###- **MEDV** - Median value of owner-occupied homes in $1000's####
 
 What we are going to do is further look at the following Challenges:
 
