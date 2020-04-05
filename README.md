@@ -19,7 +19,6 @@ Perhaps it is important to know what the columns in this dataset mean in full as
 - **PTRATIO** - pupil-teacher ratio by town
 - **B** - 1000(Bk - 0.63)^2 where Bk is the proportion of blacks by town
 - **LSTAT** - % lower status of the population
-###- **MEDV** - Median value of owner-occupied homes in $1000's####
 
 What we are going to do is further look at the following Challenges:
 
