@@ -2,7 +2,7 @@
   </h1>
 Linear Regression with Boston Housing Dataset
 
-### Goal
+<h1>### Goal</h1>
 > To predict housing costs/prices using the given features. 
 
 Perhaps it is important to know what the columns in this dataset mean in full as they have benn shortened to make appear neat in a dataframe. 
