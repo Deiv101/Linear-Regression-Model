@@ -1,8 +1,8 @@
-<h1># Linear Regression using Sklearn on Boston Housing Dataset
+<h1>Linear Regression using Sklearn on Boston Housing Dataset
   </h1>
 Linear Regression with Boston Housing Dataset
 
-<h1>### Goal</h1>
+<h2>Goal</h2>
 > To predict housing costs/prices using the given features. 
 
 Perhaps it is important to know what the columns in this dataset mean in full as they have benn shortened to make appear neat in a dataframe. 
