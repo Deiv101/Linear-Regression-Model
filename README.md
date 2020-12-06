@@ -4,9 +4,9 @@ Linear Regression with Boston Housing Dataset
 
 <h2>Goal</h2>
 > To predict housing costs/prices using the given features. 
-<div>
+
 Perhaps it is important to know what the columns in this dataset mean in full as they have benn shortened to make appear neat in a dataframe. 
-</div>
+
 - **CRIM** - per capita crime rate by town
 - **ZN** - proportion of residential land zoned for lots over 25,000 sq.ft.
 - **INDUS** - proportion of non-retail business acres per town.
