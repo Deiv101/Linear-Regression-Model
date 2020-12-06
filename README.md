@@ -1,3 +1,4 @@
+<html>
 <body>
   <center>
 <h1>Linear Regression using Sklearn on Boston Housing Dataset
@@ -30,3 +31,4 @@ What we are going to do is further look at the following Challenges:
 - How to treat outliers and 
 - Understand which variables drive the price of homes in Boston
 </body>
+</html>
