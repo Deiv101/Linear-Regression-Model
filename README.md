@@ -21,7 +21,7 @@ Perhaps it is important to know what the columns in this dataset mean in full as
 - **`CHAS`** - Nearness to Charles River- dummy variable (1 if tract bounds river; 0 otherwise)
 - **`NOX`** - nitric oxides concentration (parts per 10 million)
 - **`RM`** - average number of rooms per dwelling
-- **AGE** - proportion of owner-occupied units built prior to 1940
+- **`AGE`** - proportion of owner-occupied units built prior to 1940
 - **DIS** - weighted distances to five Boston employment centres
 - **RAD** - index of accessibility to radial highways
 - **TAX** - full-value property-tax rate per $10,000
