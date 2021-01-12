@@ -26,7 +26,7 @@ Perhaps it is important to know what the columns in this dataset mean in full as
 - **`RAD`** - index of accessibility to radial highways
 - **`TAX`** - full-value property-tax rate per $10,000
 - **`PTRATIO`** - pupil-teacher ratio by town
-- **B** - 1000(Bk - 0.63)^2 where Bk is the proportion of blacks by town
+- **`B`** - 1000(Bk - 0.63)^2 where Bk is the proportion of blacks by town
 - **LSTAT** - % lower status of the population
 
 What we are going to do is further look at the following Challenges:
