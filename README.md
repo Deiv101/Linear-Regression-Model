@@ -11,7 +11,7 @@
 Linear Regression with Boston Housing Dataset
 
 <h2>Goal</h2>
-> To predict the median value of houses in seveal Boston neighborhoods in the 1970s using the given features such as crime rate, proximity to the Charles River, highway accessibility
+> To predict the median value of houses in seveal Boston neighborhoods in the 1970s using the given features such as crime rate, proximity to the Charles River, highway accessibility and so on.
 
 Perhaps it is important to know what the columns in this dataset mean in full as they have benn shortened to make appear neat in a dataframe. 
 
