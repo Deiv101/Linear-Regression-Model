@@ -17,7 +17,7 @@ Perhaps it is important to know what the columns in this dataset mean in full as
 
 - **`CRIM`** - per capita crime rate by town
 - **`ZN`** - proportion of residential land zoned for lots over 25,000 sq.ft.
-- **INDUS** - proportion of non-retail business acres per town.
+- **`INDU`S** - proportion of non-retail business acres per town.
 - **CHAS** - Charles River dummy variable (1 if tract bounds river; 0 otherwise)
 - **NOX** - nitric oxides concentration (parts per 10 million)
 - **RM** - average number of rooms per dwelling
