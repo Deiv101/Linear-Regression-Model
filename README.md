@@ -5,7 +5,7 @@
 </div>
 <body>
   <center>
-<h1>Linear Regression using Sklearn  Boston Housing Dataset
+<h1>Linear Regression using Sklearn Boston Housing Dataset
     </center>
   </h1>
 Linear Regression with Boston Housing Dataset
