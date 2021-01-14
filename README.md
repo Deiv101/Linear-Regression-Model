@@ -5,7 +5,7 @@
 </div>
 <body>
   <center>
-<h1>Linear Regression usingBoston Housing Dataset
+<h1>Linear Regression using Boston Housing Dataset
     </center>
   </h1>
   
