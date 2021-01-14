@@ -23,7 +23,7 @@ Perhaps it is important to know what the columns in this dataset mean in full as
 - **`NOX`** - Nitric oxides concentration (parts per 10 million)
 - **`RM`** - Average number of rooms per dwelling
 - **`AGE`** - Proportion of owner-occupied units built prior to 1940
-- **`DIS`** - weighted distances to five Boston employment centres
+- **`DIS`** - Weighted distances to five Boston employment centres
 - **`RAD`** - index of accessibility to radial highways
 - **`TAX`** - full-value property-tax rate per $10,000
 - **`PTRATIO`** - pupil-teacher ratio by town
