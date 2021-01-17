@@ -3,7 +3,7 @@
   <div id="intro">
   <h1>Introduction</h1> 
 </div>
-<body>
+<body> 
   <center> 
 <h1>Linear Regression using Boston Housing Dataset
     </center>
@@ -31,7 +31,7 @@ Perhaps it is important to know what the columns in this dataset mean in full as
 - **`LSTAT`** - % lower status of the population. 
  
 What we are going to do is further look at the following Challenges:
-
+ 
 - How to treat missing values;
 - How to treat outliers;
 - Understand which variables drive the price of homes in Boston.
