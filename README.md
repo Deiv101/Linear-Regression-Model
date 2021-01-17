@@ -21,7 +21,7 @@ Perhaps it is important to know what the columns in this dataset mean in full as
 - **`INDU`S** - Proportion of non-retail business acres per town.
 - **`CHAS`** - Nearness to Charles River- dummy variable (1 if tract bounds river; 0 otherwise).
 - **`NOX`** - Nitric oxides concentration (parts per 10 million).
-- **`RM`** - Average number of rooms per dwelling
+- **`RM`** - Average number of rooms per dwelling.
 - **`AGE`** - Proportion of owner-occupied units built prior to 1940
 - **`DIS`** - Weighted distances to five Boston employment centres
 - **`RAD`** - Index of accessibility to radial highways
