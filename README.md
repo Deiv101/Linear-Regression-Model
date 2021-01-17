@@ -24,7 +24,7 @@ Perhaps it is important to know what the columns in this dataset mean in full as
 - **`RM`** - Average number of rooms per dwelling.
 - **`AGE`** - Proportion of owner-occupied units built prior to 1940.
 - **`DIS`** - Weighted distances to five Boston employment centres.
-- **`RAD`** - Index of accessibility to radial highways
+- **`RAD`** - Index of accessibility to radial highways.
 - **`TAX`** - Full-value property-tax rate per $10,000
 - **`PTRATIO`** - Pupil-teacher ratio by town
 - **`B`** - The proportion of blacks by town
