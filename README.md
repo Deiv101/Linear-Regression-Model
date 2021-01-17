@@ -28,7 +28,7 @@ Perhaps it is important to know what the columns in this dataset mean in full as
 - **`TAX`** - Full-value property-tax rate per $10,000.
 - **`PTRATIO`** - Pupil-teacher ratio by town.
 - **`B`** - The proportion of blacks by town.
-- **`LSTAT`** - % lower status of the population
+- **`LSTAT`** - % lower status of the population.
  
 What we are going to do is further look at the following Challenges:
 
