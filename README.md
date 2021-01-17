@@ -34,6 +34,6 @@ What we are going to do is further look at the following Challenges:
 
 - How to treat missing values;
 - How to treat outliers;
-- Understand which variables drive the price of homes in Boston
+- Understand which variables drive the price of homes in Boston.
   </body>
 </html>
