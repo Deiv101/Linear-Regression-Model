@@ -2,7 +2,7 @@
     
   <div id="intro">
   <h1>Introduction</h1>    
-</div>
+</div> 
 <body> 
   <center> 
 <h1>Linear Regression using Boston Housing Dataset
