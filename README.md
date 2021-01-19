@@ -1,6 +1,6 @@
 <html>  
     
-  <div id="intro">
+  <div id="intro"> 
   <h1>Introduction</h1>    
 </div> 
 <body> 
