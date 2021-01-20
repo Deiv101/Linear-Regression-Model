@@ -4,7 +4,7 @@
   <h1>Introduction</h1>      
 </div>    
 <body>      
-  <center> 
+  <center>  
 <h1>Linear Regression using Boston Housing Dataset  
     </center> 
   </h1>    
