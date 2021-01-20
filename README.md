@@ -1,7 +1,7 @@
 <html>  
      
   <div id="intro"> 
-  <h1>Introduction</h1>    
+  <h1>Introduction</h1>     
 </div>    
 <body>   
   <center> 
