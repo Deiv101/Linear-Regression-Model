@@ -7,7 +7,7 @@
   <center> 
 <h1>Linear Regression using Boston Housing Dataset 
     </center> 
-  </h1> 
+  </h1>  
     
 Linear Regression with Boston Housing Dataset 
 
